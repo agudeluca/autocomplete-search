@@ -1,0 +1,17 @@
+
+input {
+  border: 0;
+  width: 100%;
+  border-bottom: 1px solid #96c0e9;
+  border-radius: 0;
+  outline: 0;
+  height: auto;
+  padding: 0 0 10px 0;
+  font-size: 1rem;
+}
+
+input:focus {
+  border-bottom: 1px solid #7493b2;
+  box-shadow: #7493b2 0px 1px 0px 0px;
+}
+
